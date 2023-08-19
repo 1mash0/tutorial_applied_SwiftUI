@@ -1,5 +1,7 @@
 # tutorial_applied_SwiftUI
-写経
+Apple公式のSwiftUIチュートリアル(ランドマーク)を試したリポジトリ
+基本的には写経だけど一部データの持ち方とかを変えてる(ユーザー情報をAppStorage使ったり)
+
 
 # 参考サイト
-https://qiita.com/tanakadaichi_1989/items/92b50a743e2e30350c42
+https://developer.apple.com/tutorials/swiftui
